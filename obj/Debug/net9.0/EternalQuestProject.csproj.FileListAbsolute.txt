@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\bin\Debug\net9.0\EternalQuestProject.exe
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\bin\Debug\net9.0\EternalQuestProject.deps.json
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\bin\Debug\net9.0\EternalQuestProject.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\bin\Debug\net9.0\EternalQuestProject.dll
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\bin\Debug\net9.0\EternalQuestProject.pdb
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\obj\Debug\net9.0\EternalQuestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\obj\Debug\net9.0\EternalQuestProject.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\obj\Debug\net9.0\EternalQuestProject.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\obj\Debug\net9.0\EternalQuestProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\obj\Debug\net9.0\EternalQuestProject.dll
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\obj\Debug\net9.0\refint\EternalQuestProject.dll
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\obj\Debug\net9.0\EternalQuestProject.pdb
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\obj\Debug\net9.0\EternalQuestProject.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\BYU\CSE 210\week6\EternalQuestProject\obj\Debug\net9.0\ref\EternalQuestProject.dll
